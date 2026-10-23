@@ -1,0 +1,13 @@
+{
+  "name": "My Reader",
+  "short_name": "My Reader",
+  "description": "Pembaca EPUB lokal dengan library, tema, TTS, pencarian, bookmark, dan catatan.",
+  "start_url": ".",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f2ea",
+  "theme_color": "#f6f2ea",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
